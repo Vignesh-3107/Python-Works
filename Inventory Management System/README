@@ -1,0 +1,41 @@
+# ETG-INTERNSHIP-ASSIGNMENT
+
+## INVENTORY MANAGEMENT SYSTEM
+
+HI GUYS, I'M VIGNESH C  
+
+This Repository having all codes with json files for working with Inventory Management Systems .
+
+# ABOUT THIS DIRECTORY :
+ 
+ Features :
+  1. Admin can add,change and delete products in their inventory .
+  2. JSON is used for this coding .
+  3. It is NOSQL type database used.
+  4. It can identify products with any case(uppercase ,lowercase ,mixed).
+  5. Bill is generated in internal (inside of notebook code) and external ( external notepad) .
+  6. Purchased history was stored automatically while bill is generated .No need to enter one more time to print the details to store history.
+  
+ About JSON :
+  1. There is 2 Json file are created for Product listing and purchase history. 
+  2. My Product List Json file contains features of 
+         Product ID,
+         Product Name,
+         Category,
+         Quantity,
+         MRP,
+         Discount
+  3. User can access five features by using product ID .
+  4. My Purchase History Json file contains features of 
+         Bill No,
+         Bill details,
+         Product list,
+         Bill Amount.
+  5. User can access it by Bill NO .
+
+ 
+# About Me:
+ 1. I'm Vignesh C 
+ 2. I was interested in programming topics and doing projects 
+ 3. My Contact :
+        E mail: arasu.31.07.viknesh.012gmail.com
