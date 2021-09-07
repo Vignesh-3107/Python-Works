@@ -15,6 +15,7 @@ This Repository having all codes with json files for working with Inventory Mana
   4. It can identify products with any case(uppercase ,lowercase ,mixed).
   5. Bill is generated in internal (inside of notebook code) and external ( external notepad) .
   6. Purchased history was stored automatically while bill is generated .No need to enter one more time to print the details to store history.
+  7. It can Check the bills
   
  About JSON :
   1. There is 2 Json file are created for Product listing and purchase history. 
@@ -38,4 +39,4 @@ This Repository having all codes with json files for working with Inventory Mana
  1. I'm Vignesh C 
  2. I was interested in programming topics and doing projects 
  3. My Contact :
-        E mail: arasu.31.07.viknesh.012gmail.com
+        E mail: arasu.31.07.viknesh.01gmail.com
