@@ -1,0 +1,61 @@
+ 	      BILL NO : 79904
+
+        *****   BILL DETAILS   *****
+          Customer Name : NANDHA S
+          Mobile Number : 9629581753
+       Bill System User : VIKNESH
+                User ID : CV310V107
+                   Date : Sep 6 2021
+                   Time : 17:29:19
+
+        *****   PRODUCT LIST    *****
+
+ Products Bought By Customer :
+
+           Product Name : ONION
+    Quantity of Product : 2
+         MRP of Product : Rs 20
+   Discount for Product : Rs 4.0
+Total Amount of Product : Rs 32.0
+      *********************************** 
+
+           Product Name : GHEE
+    Quantity of Product : 2
+         MRP of Product : Rs 20
+   Discount for Product : Rs 4.0
+Total Amount of Product : Rs 32.0
+      *********************************** 
+
+           Product Name : SODA
+    Quantity of Product : 2
+         MRP of Product : Rs 20
+   Discount for Product : Rs 4.0
+Total Amount of Product : Rs 32.0
+      *********************************** 
+
+           Product Name : SALT
+    Quantity of Product : 2
+         MRP of Product : Rs 20
+   Discount for Product : Rs 4.0
+Total Amount of Product : Rs 32.0
+      *********************************** 
+
+           Product Name : SUGAR
+    Quantity of Product : 2
+         MRP of Product : Rs 20
+   Discount for Product : Rs 4.0
+Total Amount of Product : Rs 32.0
+     *********************************** 
+
+           Product Name : WATER
+    Quantity of Product : 2
+         MRP of Product : Rs 20
+   Discount for Product : Rs 4.0
+Total Amount of Product : Rs 32.0
+     ***********************************
+ 
+       *****   BILL PAID AMOUNT   *****
+            Total Price : Rs 1425.9
+            Saved Price : Rs 94.1
+
+      THANK YOU FOR USING ME , HAVE A  GOOD DAY 
